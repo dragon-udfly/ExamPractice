@@ -1,4 +1,4 @@
-# MATLAB Exam Practice & Digital Image Processing (ExamPractice) 🖼️📊
+# MATLAB Exam Practice & Digital Image Processing (ExamPractice)
 
 A collection of MATLAB scripts, test routines, and image assets dedicated to practicing digital image processing (DIP) workflows, color channel manipulations, and exam-oriented tasks.
 
